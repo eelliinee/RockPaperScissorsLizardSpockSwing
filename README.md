@@ -1,5 +1,7 @@
 # RockPaperScissorsLizardSpockSwing
-The game from televisionshow The Big Bang Theory
+The game from televisionshow The Big Bang Theory.
+
+And my first Java project! (made in july 2018)
 
 <h3>To play:</h3>
 <ul>
